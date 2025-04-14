@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\magnu\OneDrive - Zealand\4semester\rust_aflevering\microbit\rust-microphone\rust-microphone\target\debug\build\nrf52833-pac-531ea6cbe3cef534\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs
