@@ -1,6 +1,0 @@
-$ mkdir -p "C:\\Users\\magnu\\OneDrive - Zealand\\4semester\\rust_aflevering\\microbit\\rust-microphone\\rust-microphone\\target\\debug\\build\\az-007b30c6551e9d0e\\out\\try_track_caller"
-$ cd "C:\\Users\\magnu\\OneDrive - Zealand\\4semester\\rust_aflevering\\microbit\\rust-microphone\\rust-microphone\\target\\debug\\build\\az-007b30c6551e9d0e\\out\\try_track_caller"
-$ printf '%s' "// try_tra"... > "C:\\Users\\magnu\\OneDrive - Zealand\\4semester\\rust_aflevering\\microbit\\rust-microphone\\rust-microphone\\target\\debug\\build\\az-007b30c6551e9d0e\\out\\try_track_caller\\try_track_caller.rs"
-$ "C:\\Users\\magnu\\.cargo\\bin\\rustc.exe" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
-cargo:rustc-cfg=track_caller
-$ rm -r "C:\\Users\\magnu\\OneDrive - Zealand\\4semester\\rust_aflevering\\microbit\\rust-microphone\\rust-microphone\\target\\debug\\build\\az-007b30c6551e9d0e\\out\\try_track_caller"
