@@ -1,0 +1,12 @@
+C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\deps\libdefmt_rtt-7f5345f7844cba5c.rmeta: C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\build\defmt-rtt-e5203893e9c5aa45\out/consts.rs
+
+C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\deps\libdefmt_rtt-7f5345f7844cba5c.rlib: C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\build\defmt-rtt-e5203893e9c5aa45\out/consts.rs
+
+C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\deps\defmt_rtt-7f5345f7844cba5c.d: C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\build\defmt-rtt-e5203893e9c5aa45\out/consts.rs
+
+C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs:
+C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs:
+C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs:
+C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\build\defmt-rtt-e5203893e9c5aa45\out/consts.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\magnu\\Desktop\\erhversakademi\\4semester\\rust-microphone\\rust-microphone\\target\\thumbv7em-none-eabihf\\release\\build\\defmt-rtt-e5203893e9c5aa45\\out

@@ -1,0 +1,2 @@
+cargo:rustc-link-search=C:\Users\magnu\OneDrive - Zealand\4semester\rust_aflevering\microbit\target\debug\build\nrf51-hal-a675d63c01d0c321\out
+cargo:rerun-if-changed=build.rs

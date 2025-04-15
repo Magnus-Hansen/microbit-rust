@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\thumbv7em-none-eabihf\release\build\defmt-cfc310573d872f38\out
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)

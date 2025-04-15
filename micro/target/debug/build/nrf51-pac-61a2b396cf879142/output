@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\magnu\OneDrive - Zealand\4semester\rust_aflevering\microbit\target\debug\build\nrf51-pac-61a2b396cf879142\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

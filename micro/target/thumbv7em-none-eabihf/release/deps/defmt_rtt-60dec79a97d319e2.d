@@ -1,0 +1,12 @@
+C:\Users\magnu\OneDrive - Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\deps\libdefmt_rtt-60dec79a97d319e2.rmeta: C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs C:\Users\magnu\OneDrive\ -\ Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\build\defmt-rtt-23c0f3825f5783f8\out/consts.rs
+
+C:\Users\magnu\OneDrive - Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\deps\libdefmt_rtt-60dec79a97d319e2.rlib: C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs C:\Users\magnu\OneDrive\ -\ Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\build\defmt-rtt-23c0f3825f5783f8\out/consts.rs
+
+C:\Users\magnu\OneDrive - Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\deps\defmt_rtt-60dec79a97d319e2.d: C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs C:\Users\magnu\OneDrive\ -\ Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\build\defmt-rtt-23c0f3825f5783f8\out/consts.rs
+
+C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\lib.rs:
+C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\channel.rs:
+C:\Users\magnu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\defmt-rtt-1.0.0\src\consts.rs:
+C:\Users\magnu\OneDrive\ -\ Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\build\defmt-rtt-23c0f3825f5783f8\out/consts.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\magnu\\OneDrive - Zealand\\4semester\\rust_aflevering\\microbit\\target\\thumbv7em-none-eabihf\\release\\build\\defmt-rtt-23c0f3825f5783f8\\out

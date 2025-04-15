@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\magnu\Desktop\erhversakademi\4semester\rust-microphone\rust-microphone\target\debug\build\nrf52833-hal-32f80f3f9c5948cd\out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=memory.x

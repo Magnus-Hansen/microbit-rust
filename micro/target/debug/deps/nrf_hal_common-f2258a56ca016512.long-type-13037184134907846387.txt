@@ -1,0 +1,1 @@
+nrf51_pac::generic::BitWriterRaw<'_, u32, nrf51_pac::radio::crccnf::CRCCNF_SPEC, nrf51_pac::radio::crccnf::SKIPADDR_A, nrf51_pac::generic::BitM, 8>

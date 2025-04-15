@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\magnu\OneDrive - Zealand\4semester\rust_aflevering\microbit\target\thumbv7em-none-eabihf\release\build\nrf52833-pac-9a3a46bfc31595a7\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

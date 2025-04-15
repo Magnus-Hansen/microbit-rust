@@ -1,0 +1,1 @@
+nrf51_pac::generic::FieldWriterRaw<'_, u32, nrf51_pac::radio::mode::MODE_SPEC, u8, nrf51_pac::radio::mode::MODE_A, nrf51_pac::generic::Safe, 2, 0>
